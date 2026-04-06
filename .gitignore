@@ -1,0 +1,31 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pickled models and large datasets (GitHub limits files to 100MB)
+*.pkl
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Node/Frontend
+node_modules/
+dist/
+build/
+.next/
+
+# OS generated files
+.DS_Store
+Thumbs.db
