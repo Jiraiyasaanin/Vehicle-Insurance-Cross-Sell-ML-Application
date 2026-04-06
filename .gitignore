@@ -9,7 +9,6 @@ venv.bak/
 
 # Pickled models and large datasets (GitHub limits files to 100MB)
 *.pkl
-*.csv
 
 # Python
 __pycache__/
