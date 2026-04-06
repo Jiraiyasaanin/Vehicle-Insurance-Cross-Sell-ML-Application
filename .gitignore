@@ -8,7 +8,7 @@ env.bak/
 venv.bak/
 
 # Pickled models and large datasets (GitHub limits files to 100MB)
-*.pkl
+random_forest.pkl
 
 # Python
 __pycache__/
